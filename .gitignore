@@ -131,3 +131,10 @@ dmypy.json
 migrations/
 migrations/*
 migrations
+/migrations
+.migrations/*
+applications/snippets/migrations
+applications/snippets/migrations/*
+applications/snippets/migrations/
+.migrations
+
